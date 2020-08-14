@@ -9,7 +9,7 @@ To start a token called PupperCoin was made on the local testnet. The coin was E
 
 ![PupperCoin Deploy](./hw21_screenshots/deploy_puppercoin.png)
 
-![PupperCoin Metamask](./hw21_screenshots/puppercoin_Metamask.png)
+![PupperCoin Metamask](./hw21_screenshots/puppercoin_metamask.png)
 
 The next contract that was deployed was used to place contracts on the sale and the deployment of the crowdsale on the local network.
 
